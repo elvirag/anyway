@@ -47,7 +47,7 @@ xlrd
 flask_cors
 pandas
 tweepy
-beautifulsoup4==4.6.0
+beautifulsoup4==4.9.2
 google-cloud-storage
 google-cloud-core
 google-api-core
